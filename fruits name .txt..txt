@@ -1,7 +1,0 @@
-apple 
-mango
-grapes
-orange
-pear
-papaya
-guava
